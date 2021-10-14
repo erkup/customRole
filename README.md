@@ -11,7 +11,7 @@ Bicep example that creates the following:
 Open Cloudshell in the Azure portal. Clone the repo -> run:
 
 ```Powershell  
-New-AzDeployment -Location EastUS -TemplateFile "./main.bicep
+New-AzDeployment -Location EastUS -TemplateFile "./main.bicep"
 ```  
 
 or  
